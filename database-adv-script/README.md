@@ -24,4 +24,4 @@ FROM
     bookings
 INNER JOIN 
     users ON bookings.user_id = users.id;
-
+`
